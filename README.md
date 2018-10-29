@@ -1,8 +1,8 @@
 Recommended-read papers on TCM/RE
 ===
-TCM:traditional Chinese medicine  RE:relationship extraction
+TCM:traditional Chinese medicine    RE:relationship extraction
 
-Contributed by Ruijie Wu and CHunyang Ruan
+Contributed by Ruijie Wu and Chunyang Ruan
 
 Survey papers:
 ---
