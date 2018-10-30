@@ -1,6 +1,6 @@
-Recommended-read papers on TCM/RE
+Some recommended papers on TCM/DM
 ===
-TCM:traditional Chinese medicine    RE:relationship extraction
+TCM:traditional Chinese medicine    DM:data mining
 
 Contributed by Ruijie Wu and Chunyang Ruan
 
